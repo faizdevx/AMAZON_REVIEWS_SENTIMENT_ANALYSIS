@@ -90,8 +90,6 @@ This project replaces traditional ML methods (TF-IDF + Logistic Regression) with
  ┣ 📜 README.md
  ┣ 📂 images
  ┃ ┗ 📷 confusion_matrix.png
- ┣ 📂 models
- ┃ ┗ 🤖 saved_model/
 
 
 
