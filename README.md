@@ -108,3 +108,7 @@ This project replaces traditional ML methods (TF-IDF + Logistic Regression) with
 - Use **Gradio** or **Streamlit** for interface  
 - Easy-to-deploy, cloud-hosted model  
 - **No backend/server required** — fully managed by Hugging Face
+
+
+## Future Plan 
+- train my model to act and give answer perfectly on multilingual reviews also 
